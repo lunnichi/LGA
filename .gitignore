@@ -1,0 +1,7 @@
+*.o
+*.exe
+lga
+run_tests
+*.ppm
+*.png
+grid.bin
